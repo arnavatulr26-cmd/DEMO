@@ -1,3 +1,3 @@
 # DEMO
-This is my first GIT Repo
+This is my first GIT Repo <br>
 Author - Arnav Ranshur
